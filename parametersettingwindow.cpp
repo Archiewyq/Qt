@@ -54,7 +54,6 @@ void ParameterSettingWindow::slotSpinBoxChange()
     for(int8_t i=0; i<edit2.size(); i++)
         edit2.at(i)->setText("36000000");
 }
-///
 void ParameterSettingWindow::on_pushButton_clicked()
 {
     QMessageBox::StandardButton button;
