@@ -5,7 +5,7 @@
 #include <QDebug>
 #include <QFileDialog>
 #include <QSettings>
-
+/////////////////////////////////
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent),
     ui(new Ui::MainWindow)
